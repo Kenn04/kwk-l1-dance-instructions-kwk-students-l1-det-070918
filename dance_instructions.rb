@@ -12,4 +12,7 @@ def skip_step(starting_foot)
   puts "Bounce #{starting foot} back up slightly, kicking it a few inches back"
 COME BACK
 end 
-def bob_ 
+def bob_the_reins
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
+  puts "Lift your arms up and down in a loose bouncing movement, in time"
