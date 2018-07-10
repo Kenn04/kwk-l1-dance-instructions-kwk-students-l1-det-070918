@@ -12,3 +12,4 @@ def skip_step(starting_foot)
   puts "Bounce #{starting foot} back up slightly, kicking it a few inches back"
 COME BACK
 end 
+def bob_ 
