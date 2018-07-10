@@ -8,4 +8,7 @@ def base_footwork
   puts "Return right foot to the ground"
 end
 def skip_step(starting_foot)
-  
+  puts "Lower #{starting_foot} to the ground"
+  puts "Bounce #{starting foot} back up slightly, kicking it a few inches back"
+COME BACK
+end 
